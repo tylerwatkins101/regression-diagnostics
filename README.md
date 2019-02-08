@@ -29,7 +29,7 @@ This file contains the code for using the RegressionDiagnostics class methods an
 
 - pypi_required
 
-This folders contains necessary additional documentation for uploading a package to pypi
+This folder contains necessary additional documentation for uploading a package to pypi
 
 ## Installation
 
