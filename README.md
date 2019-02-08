@@ -41,7 +41,7 @@ regression_diagnostics requires:
 
 #### User Installation
 
-If you already have a working installation with the above dependencies, the easiest way to install regression_diagnostics using `pip`
+If you've already installed the above dependencies, the easiest way to install regression_diagnostics using `pip`.
 
 `pip install regression-diagnostics`
 
