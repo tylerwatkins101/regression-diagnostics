@@ -13,7 +13,9 @@ It takes two lists or numpy arrays as input.
 
 # Files
 
-regression_diagnostics.py
+This repository contains the file:
+
+- regression_diagnostics.py
 
 This file contains the code for using the RegressionDiagnostics class methods and retrieving the class attributes
 
