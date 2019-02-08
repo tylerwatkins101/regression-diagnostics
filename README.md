@@ -57,12 +57,12 @@ Instantiate an object as:
 
 Use the functions:
 
-- rd.shapiro()
-- rd.fit_residplot()
-- rd.pred_actualplot()
-- rd.qqplot()
+`rd.shapiro()`
+`rd.fit_residplot()`
+`rd.pred_actualplot()`
+`rd.qqplot()`
 
 Get the attributes
 
-- rd.residuals
-- rd.standard_residuals
+`rd.residuals`
+`rd.standard_residuals`
