@@ -1,6 +1,6 @@
 # regression_diagnostics
 
-Summary of the Package
+# Summary of the Package
 
 This package can be found at https://pypi.org/project/regression-diagnostics/.
 
@@ -10,6 +10,12 @@ It takes two lists or numpy arrays as input.
 
 1. A  list of actual values (i.e. y-test)
 2. A list of predicted values from your model (i.e. y-predicted)
+
+# Motivation
+
+In R, fast regression diagnostics are as easy as typing `plot(model)`.
+
+In python, quickly analyzing your regression diagnostics takes way longer than it should. For that reason i decided to build this package. To get very fast diagnostics for my regression analysis.
 
 # Files
 
