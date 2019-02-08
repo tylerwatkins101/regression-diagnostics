@@ -27,6 +27,10 @@ This repository contains the file:
 
 This file contains the code for using the RegressionDiagnostics class methods and retrieving the class attributes
 
+- pypi_required
+
+This folders contains necessary additional documentation for uploading a package to pypi
+
 ## Installation
 
 #### Dependencies
