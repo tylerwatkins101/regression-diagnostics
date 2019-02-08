@@ -2,8 +2,9 @@
 
 Summary of the Package
 
-This package is meant to be used for doing regression diagnostics on two lists
-of values.
+This package is meant to be used for doing regression diagnostics on the output of your regression model.
+
+It takes two lists or numpy arrays as input.
 
 1. A  list of actual values (i.e. y-test)
 2. A list of predicted values from your model (i.e. y-predicted)
