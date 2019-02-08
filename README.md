@@ -29,16 +29,19 @@ This file contains the code for using the RegressionDiagnostics class methods an
 
 # Installation
 
-Packages that this package requires to be installed in your environment:
+#### Dependencies
+regression_diagnostics requires:
+- Python 3
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scipy
+- Statsmodels
 
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scipy
-- statsmodels
+#### User Installation
 
-After installing the above packages install regression_diagnostics with pip
+If you already have a working installation with the above dependencies, the easiest way to install regression_diagnostics using `pip`
 
 `pip install regression-diagnostics`
 
