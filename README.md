@@ -11,6 +11,8 @@ It takes two lists or numpy arrays as input.
 1. A  list of actual values (i.e. y-test)
 2. A list of predicted values from your model (i.e. y-predicted)
 
+And lets you rapidly view various standard regression diagnostic plots and statistics.
+
 # Motivation
 
 In R, fast regression diagnostics are as easy as typing `plot(model)`.
