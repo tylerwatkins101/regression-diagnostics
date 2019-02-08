@@ -1,6 +1,6 @@
 # regression_diagnostics
 
-### Table of Contents
+## Table of Contents
 
 1. [Summary of the Package](#Summary)
 2. [Motivation](#Motivation)
