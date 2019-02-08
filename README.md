@@ -2,11 +2,11 @@
 
 ### Table of Contents
 
-1. [Summary of the Package](#Summary of the Package)
+1. [Summary of the Package](#Summary)
 2. [Motivation](#Motivation)
 3. [Files](#Files)
 4. [Installation](#Installation)
-5. [How to Use the Package](#How to Use the Package)
+5. [How to Use the Package](#Usage)
 
 ## Summary of the Package
 
