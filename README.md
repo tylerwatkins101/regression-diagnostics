@@ -1,6 +1,6 @@
 # regression_diagnostics
 
-# Summary of the Package
+## Summary of the Package
 
 This package can be found at https://pypi.org/project/regression-diagnostics/.
 
@@ -13,13 +13,13 @@ It takes two lists or numpy arrays as input.
 
 And lets you rapidly view various standard regression diagnostic plots and statistics.
 
-# Motivation
+## Motivation
 
 In R, fast regression diagnostics are as easy as typing `plot(model)`.
 
 In python, quickly analyzing your regression diagnostics takes way longer than it should. For that reason I decided to build this package. To get very fast diagnostics for my regression analysis.
 
-# Files
+## Files
 
 This repository contains the file:
 
@@ -27,7 +27,7 @@ This repository contains the file:
 
 This file contains the code for using the RegressionDiagnostics class methods and retrieving the class attributes
 
-# Installation
+## Installation
 
 #### Dependencies
 regression_diagnostics requires:
@@ -45,7 +45,7 @@ If you've already installed the above dependencies, the easiest way to install r
 
 `pip install regression-diagnostics`
 
-# How to Use the Package
+## How to Use the Package
 
 After importing the RegressionDiagnostics class to your working environment with:
 
