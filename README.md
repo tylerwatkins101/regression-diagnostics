@@ -2,6 +2,8 @@
 
 Summary of the Package
 
+This package can be found at https://pypi.org/project/regression-diagnostics/.
+
 This package is meant to be used for doing regression diagnostics on the output of your regression model.
 
 It takes two lists or numpy arrays as input.
@@ -13,8 +15,7 @@ It takes two lists or numpy arrays as input.
 
 - regression_diagnostics.py
 
-This file contains the code for using the RegressionDiagnostics
-class methods and retrieving the class attributes
+This file contains the code for using the RegressionDiagnostics class methods and retrieving the class attributes
 
 # Installation
 
