@@ -36,11 +36,11 @@ After installing the above packages install regression_diagnostics with pip
 
 After importing the RegressionDiagnostics class to your working environment with:
 
-from regression_diagnostics import RegressionDiagnostics
+`from regression_diagnostics import RegressionDiagnostics`
 
 Instantiate an object as:
 
-rd = RegressionDiagnostics(actual_values, predicted_values)
+`rd = RegressionDiagnostics(actual_values, predicted_values)`
 
 Use the functions:
 
