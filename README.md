@@ -17,7 +17,7 @@ And lets you rapidly view various standard regression diagnostic plots and stati
 
 In R, fast regression diagnostics are as easy as typing `plot(model)`.
 
-In python, quickly analyzing your regression diagnostics takes way longer than it should. For that reason i decided to build this package. To get very fast diagnostics for my regression analysis.
+In python, quickly analyzing your regression diagnostics takes way longer than it should. For that reason I decided to build this package. To get very fast diagnostics for my regression analysis.
 
 # Files
 
