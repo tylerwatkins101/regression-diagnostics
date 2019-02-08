@@ -13,7 +13,7 @@ It takes two lists or numpy arrays as input.
 
 # Files
 
-- regression_diagnostics.py
+1. regression_diagnostics.py
 
 This file contains the code for using the RegressionDiagnostics class methods and retrieving the class attributes
 
@@ -21,12 +21,12 @@ This file contains the code for using the RegressionDiagnostics class methods an
 
 Packages that this package requires to be installed in your environment:
 
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-statsmodels
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
 
 After installing the above packages install regression_diagnostics with pip
 
@@ -34,11 +34,13 @@ pip install regression-diagnostics
 
 # How to Use the Package
 
-After importing the RegressionDiagnostics class to your working environment with
+After importing the RegressionDiagnostics class to your working environment with:
 
 from regression_diagnostics import RegressionDiagnostics
 
-Instantiate an object as rd = RegressionDiagnostics(actual_values, predicted_values)
+Instantiate an object as:
+
+rd = RegressionDiagnostics(actual_values, predicted_values)
 
 Use the functions:
 
