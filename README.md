@@ -13,7 +13,7 @@ It takes two lists or numpy arrays as input.
 
 # Files
 
-1. regression_diagnostics.py
+regression_diagnostics.py
 
 This file contains the code for using the RegressionDiagnostics class methods and retrieving the class attributes
 
@@ -30,7 +30,7 @@ Packages that this package requires to be installed in your environment:
 
 After installing the above packages install regression_diagnostics with pip
 
-pip install regression-diagnostics
+`pip install regression-diagnostics`
 
 # How to Use the Package
 
